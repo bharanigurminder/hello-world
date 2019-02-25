@@ -4,3 +4,4 @@ class Foo:
 fooInstance = Foo()
 
 print(isinstance(fooInstance, Foo))
+print('gurminder the great')
